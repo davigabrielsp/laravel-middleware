@@ -15,7 +15,7 @@ services:
         networks:
             - laravel
 
-    # nginx
+    # ngin
     nginx:
         image: nginx:alpine
         restart: unless-stopped
